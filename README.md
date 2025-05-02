@@ -4,7 +4,8 @@
 
 ## 👩‍💻 À propos de moi
 
-Lead Architect (CTO) chez AI TOUBIB, je suis responsable de l'ensemble de l'architecture technique de notre plateforme d'intelligence artificielle dédiée au domaine médical. Passionnée par l'intersection entre l'IA et la santé, je développe des solutions numériques innovantes qui transforment l'expérience des professionnels de santé et des patients. Mon expertise combine une solide connaissance des algorithmes d'IA avec une compréhension approfondie des enjeux du secteur médical.
+Anciennement Lead Architect (CTO) chez AI TOUBIB, je suis responsable de l'ensemble de l'architecture technique de notre plateforme d'intelligence artificielle dédiée au domaine médical. Passionnée par l'intersection entre l'IA et la santé, je développe des solutions numériques innovantes qui transforment l'expérience des professionnels de santé et des patients. Mon expertise combine une solide connaissance des algorithmes d'IA avec une compréhension approfondie des enjeux du secteur médical.
+Mais ils ont recruté un gros escroc, qui a tout fait pour que je parte (moquerie, me dévaloriser devant le patron, saboter mon travail...). A croire qu'il voulait placer un copain à lui. Si vous voulez en discuter, n'hésitez pas à me contacter OIW:cb124ba7-76e5-4200-af99-4a0af50e8b9c
 
 ---
 
